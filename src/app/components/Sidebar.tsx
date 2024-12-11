@@ -13,6 +13,7 @@ const Sidebar = () => {
     { name: 'Settings', path: '/dashboard/settings' },
     { name: 'Notifications', path: '/dashboard/notifications' },
     { name: 'Logout', path: '/logout' },
+    { name: 'Go Home', path: '/' },
   ];
 
   return (
